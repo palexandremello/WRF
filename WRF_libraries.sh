@@ -1,3 +1,4 @@
+
 #############################################################
 #														   ##
 #														   ##
@@ -13,7 +14,7 @@
 
 ### NETCDF
 ### COMPILANDO A BIBLIOTECA NETCDF-C
-
+############################################################
 netcdf4=`ls | grep netcdf-4.*.tar.gz`
 tar zxvf $netcdf4
 netcdf4=`ls | grep netcdf-4.*.tar.gz | cut -b 1-12`
