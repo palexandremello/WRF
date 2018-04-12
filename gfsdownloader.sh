@@ -2,13 +2,13 @@
 anoi=`date  +%Y`
 anof=$anoi
 #mesi=`date "-d -6 month" +%m` 
-mesi=03 
+mesi=04 
 mesf=$mesi
-diai=30
-diaf=31
+diai=11
+diaf=11
 utci=00
 fc=000
-fcf=024
+fcf=003
 
 i=0
 j=0
